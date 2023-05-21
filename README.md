@@ -75,10 +75,6 @@ These are my latest posts on [Medium](https://medium.com/@iampradyuman18).
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pradyumantomar&hide_border=true&theme=dark&show_icons=true" />
 </p>
 
-<p align="center">
-	<img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=pradyumantomar&theme=dark&show_icons=true" alt="pradyumantomar" />
-</p>
-
 <hr />
 
 ## 📕 Pinned Repositories
@@ -92,8 +88,5 @@ These are my latest posts on [Medium](https://medium.com/@iampradyuman18).
 	</a>
 	<a href="https://github.com/pradyumantomar/Travel_Buddy_ReactNative">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pradyumantomar&repo=Travel_Buddy_ReactNative&hide_border=true&theme=dark&show_icons=true" />
-	</a>
-	<a href="https://github.com/pradyumantomar/pradyumantomar.github.io">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pradyumantomar&repo=pradyumantomar.github.io&hide_border=true&theme=dark&show_icons=true" />
 	</a>
 </p>
