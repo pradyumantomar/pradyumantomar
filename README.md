@@ -7,7 +7,7 @@
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
   <a href="https://leetcode.com/pradyumantomar/">
-		<img src="https://img.shields.io/badge/leetcode-ffffff?style=for-the-badge&logo=leetcode&logoColor=white" />
+		<img src="https://img.shields.io/badge/leetcode-ffffff?style=for-the-badge&logo=leetcode&logoColor=black" />
 	</a>
 	<a href="mailto:iampradyuman18@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -88,5 +88,8 @@ These are my latest posts on [Medium](https://medium.com/@iampradyuman18).
 	</a>
 	<a href="https://github.com/pradyumantomar/Travel_Buddy_ReactNative">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pradyumantomar&repo=Travel_Buddy_ReactNative&hide_border=true&theme=dark&show_icons=true" />
+	</a>
+    <a href="https://github.com/pradyumantomar/pradyumantomar">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pradyumantomar&repo=pradyumantomar&hide_border=true&theme=dark&show_icons=true" />
 	</a>
 </p>
