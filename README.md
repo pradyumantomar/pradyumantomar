@@ -1,4 +1,8 @@
+<<<<<<< HEAD
     ![Typing.............](En1y.gif)
+=======
+<p align = "center">    ![](https://i.gifer.com/En1y.gif)
+>>>>>>> b6b0c844dfd1bad7b4a7019537965c3b68384363
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/pradyumantomar/">
