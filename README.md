@@ -1,6 +1,4 @@
-<p align="center">
-	![](https://tenor.com/view/doge-type-typing-dogecoin-gif-22440104)
-</p>
+    ![](https://tenor.com/view/doge-type-typing-dogecoin-gif-22440104)
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/pradyumantomar/">
