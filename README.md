@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/pradyumantomar/pradyumantomar/assets/76039454/d557fb3c-c42e-4fea-8a19-cf3fb2d6e8f7" alt="En1y" />
+</p>
 <p align="center">
 	<a href="https://www.linkedin.com/in/pradyumantomar/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -10,8 +12,6 @@
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
-
- ![En1y](https://github.com/pradyumantomar/pradyumantomar/assets/76039454/d557fb3c-c42e-4fea-8a19-cf3fb2d6e8f7)  
 
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=pradyumantomar&color=blueviolet&style=flat-square&label=Profile+Views" />
