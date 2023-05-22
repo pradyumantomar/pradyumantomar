@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://tenor.com/view/doge-type-typing-dogecoin-gif-22440104">
+	![](https://tenor.com/view/doge-type-typing-dogecoin-gif-22440104)
 </p>
 
 <p align="center">
