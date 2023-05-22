@@ -72,6 +72,10 @@ These are my latest posts on [Medium](https://medium.com/@iampradyuman18).
 ## 📈 Statistics
 
 <br/>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pradyumantomar&count_private=true&theme=dark&show_icons=true" alt="amankrx" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pradyumantomar&hide_border=true&theme=dark&show_icons=true" />
+</p> --> -->
 
 <hr />
 
