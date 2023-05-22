@@ -65,7 +65,8 @@ These are my latest posts on [Medium](https://medium.com/@iampradyuman18).
 - [Dart Sound typing and Sound null safety!!!](https://medium.com/@iampradyuman18/dart-sound-typing-and-sound-null-safety-5f00f3625ce3)
 - [Flutter architecture!!!](https://medium.com/@iampradyuman18/flutter-architecture-a6341ce74226)
 - [What is clean architecture?](https://medium.com/@iampradyuman18/what-is-clean-architecture-11cad7a7e012)
-<!-- MEDIUM:END -->
+  <!-- MEDIUM:END -->
+  <!--
 
 ## 📈 Statistics
 
@@ -73,7 +74,7 @@ These are my latest posts on [Medium](https://medium.com/@iampradyuman18).
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pradyumantomar&count_private=true&theme=dark&show_icons=true" alt="amankrx" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pradyumantomar&hide_border=true&theme=dark&show_icons=true" />
-</p>
+</p> -->
 
 <hr />
 
