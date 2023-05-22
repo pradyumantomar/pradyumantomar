@@ -84,8 +84,8 @@ These are my latest posts on [Medium](https://medium.com/@iampradyuman18).
 	<a href="https://github.com/pradyumantomar/CodeFusion">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pradyumantomar&repo=CodeFusion&hide_border=true&theme=dark&show_icons=true" />
 	</a>
-	<a href="https://github.com/pradyumantomar/FileShare_Web">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pradyumantomar&repo=FileShare_Web&hide_border=true&theme=dark&show_icons=true" />
+	<a href="https://github.com/pradyumantomar/ShareMe">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pradyumantomar&repo=ShareMe&hide_border=true&theme=dark&show_icons=true" />
 	</a>
 	<a href="https://github.com/pradyumantomar/Travel_Buddy_ReactNative">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pradyumantomar&repo=Travel_Buddy_ReactNative&hide_border=true&theme=dark&show_icons=true" />
