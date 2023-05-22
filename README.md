@@ -13,7 +13,7 @@
 </p>
 
 <p align = "center"> 
-![](En1y.gif)
+![](./En1y.gif)
 </p>
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=pradyumantomar&color=blueviolet&style=flat-square&label=Profile+Views" />
