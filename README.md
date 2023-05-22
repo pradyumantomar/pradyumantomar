@@ -69,6 +69,10 @@ These are my latest posts on [Medium](https://medium.com/@iampradyuman18).
     <!--
   <!--
 
+## 📈 Statistics
+
+<br/>
+
 <hr />
 
 ## 📕 Pinned Repositories
