@@ -1,3 +1,4 @@
+![En1y](https://github.com/pradyumantomar/pradyumantomar/assets/76039454/d557fb3c-c42e-4fea-8a19-cf3fb2d6e8f7)
 
 
 <p align="center">
@@ -12,9 +13,6 @@
 	</a>
 </p>
 
-<p align = "center"> 
-![](./En1y.gif)
-</p>
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=pradyumantomar&color=blueviolet&style=flat-square&label=Profile+Views" />
 </p>
