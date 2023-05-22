@@ -1,4 +1,4 @@
-    ![](https://i.gifer.com/En1y.gif)
+<p align = "center">    ![Typing](https://i.gifer.com/En1y.gif)
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/pradyumantomar/">
