@@ -19,7 +19,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me:
 
-<p>👋 &nbsp;Hi there! I'm Pradyuman, a Backend Developer at a Wipro Ltd.</p>
+<p>👋 &nbsp;Hi there! I'm Pradyuman, a Backend Developer.</p>
 <p>🔍 &nbsp;I'm actively seeking roles as a Backend Developer or Software Developer, with a focus on low latency and FullStack projects.</p>
 <p>🚀 &nbsp;My technical skillset includes JavaScript, C++, Python, and more, and I'm passionate about using these tools to solve complex problems in the software industry.</p>
 <p>🌱 &nbsp;Currently, I'm working on building my expertise in the field of Web Development and expanding my knowledge of advanced algorithms and data structures.</p>
