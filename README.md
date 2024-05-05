@@ -41,6 +41,28 @@
 
 📃 **[Download my resume](https://brutusai.com/downloads)** here for a deep dive into my background, skills, and exciting projects!
 
+- apps:
+  - [Table Habit][Table Habit]
+- packages:
+  - `dart/flutter`:
+    - [Dart Transmission Rpc][Dart Transmission Rpc] / [Simple Heatmap Calendar][Simple Heatmap Calendar] / [Named HTTP Color][Named HTTP Color] / [Win2IANA TimeZone Converter][Win2IANA TimeZone Converter]
+- scripts:
+  - [DNSPod DDNS PY][DNSPod DDNS PY]
+- documentations:
+  - [RPC4918 CN][RPC4918 CN]
+- github-actions:
+  - [Honkit Build Page][Honkit Build Page]
+
+
+[Table Habit]: https://github.com/FriesI23/mhabit
+[Dart Transmission Rpc]: https://github.com/FriesI23/dart_transmission_rpc
+[Simple Heatmap Calendar]: https://github.com/FriesI23/simple_heatmap_calendar
+[Named HTTP Color]: https://github.com/FriesI23/named_html_color
+[Win2IANA TimeZone Converter]: https://github.com/FriesI23/win2iana_tz_converter
+[RPC4918 CN]: https://github.com/FriesI23/rfc4918-cn
+[Honkit Build Page]: https://github.com/FriesI23/honkit-build-page
+[DNSPod DDNS PY]: https://github.com/FriesI23/dnspod_ddns_py
+
 ## 🛠 &nbsp;Tech Stack:
 
 ### 💻 &nbsp;Languages:
