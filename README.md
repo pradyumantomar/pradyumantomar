@@ -16,27 +16,27 @@
 
 
 
-⚙️ **JavaScript Expert:** Top-notch JavaScript skills for building dynamic & interactive web apps.
+⚙️ **JavaScript Expert:**  ➡️ Top-notch JavaScript skills for building dynamic & interactive web apps.
 
 
 
 
 
-📱 **Flutter & Dart Guru:** Proficient in creating stunning mobile applications for both Android & iOS.
+📱 **Flutter & Dart Guru:**  ➡️ Proficient in creating stunning mobile applications for both Android & iOS.
 
-⚡ **Node.js Maverick:** Robust & scalable server-side dev with real-time capabilities.
-
-
-
-
-
-📚 **MongoDB Mastermind:** Crafting efficient and scalable database structures for web & mobile apps.
+⚡ **Node.js Maverick:**  ➡️ Robust & scalable server-side dev with real-time capabilities.
 
 
 
 
 
-🤓 **Tech Explorer:** Always learning and staying updated on the latest tech trends.
+📚 **MongoDB Mastermind:**  ➡️ Crafting efficient and scalable database structures for web & mobile apps.
+
+
+
+
+
+🤓 **Tech Explorer:**  ➡️ Always learning and staying updated on the latest tech trends.
 
 
 📃 **[Download my resume](https://brutusai.com/downloads)** here for a deep dive into my background, skills, and exciting projects!
@@ -95,5 +95,5 @@ These are my latest posts on [Medium](https://medium.com/@iampradyuman18).
 💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻📱✨🚀 Let's collaborate and build extraordinary digital experiences together!
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=your-github-username" alt="your-github-username" />
+<img src="https://komarev.com/ghpvc/?username=pradyumantomar" alt="your-github-username" />
 </p>
