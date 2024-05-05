@@ -3,7 +3,7 @@
 </p>
 
 
-<br>   </br> **Connect with me:** -    💻 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/) -    📧 [Gmail](mailto:youremail@example.com) -    📝 [Medium](https://medium.com/@your-medium-username) -    💻 [LeetCode](https://leetcode.com/your-leetcode-profile/)
+<br>   </br> **Connect with me:** -    💻 [LinkedIn](https://www.linkedin.com/in/pradyumantomar/) -    📧 [Gmail](mailto:iampradyuman18@gmail.com) -    📝 [Medium](https://medium.com/@iampradyuman18) -    💻 [LeetCode](https://leetcode.com/pradyumantomar/)
 
 
 
@@ -70,20 +70,17 @@
 
 These are my latest posts on [Medium](https://medium.com/@iampradyuman18).
 
+**1️📝 What is runZonedGuarded Function in Flutter ?**
 
-📝**Medium Articles:**
+     ➡️ runZonedGuarded is particularly useful in scenarios where you want to ensure that your application can gracefully handle errors and continue running even if unexpected exceptions occur in specific parts of your code.
 
-**1️️️⃣ Title of Article 1:**
+**2️📝 Understanding BuildContext in Flutter**
 
-     ➡️ **Summary:** In this captivating article, [Your Name] proudly exhibits mastery in [specific topic], revealing tips and insights only an insider could provide.
+     ➡️ BuildContext of the subpart of the tree, you can use the Builder widget and the context passed to the Builder widget will be the context of that Builder widget only.
 
-**2️️️⃣ Title of Article 2:**
+**3️📝 What is clean architecture?**
 
-     ➡️ **Summary:** Dive into [Your Name]'s enlightening exploration of [another subject], as they discern hidden insights and share them with the developer community.
-
-**3️️️⃣ Title of Article 3:**
-
-     ➡️ **Summary:** Grasp [Your Name]'s awe-inspiring analysis of [unique technology/perspective], as they offer an exceptional view on advancing tech trends.
+     ➡️ Clean architecture refers to organizing the project so that it’s easy to understand and easy to change as the project grows. This doesn’t happen by chance. It takes intentional planning.
 
 
 
